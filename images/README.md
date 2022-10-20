@@ -1,0 +1,1 @@
+you can add all images to be analyzed in this folder
